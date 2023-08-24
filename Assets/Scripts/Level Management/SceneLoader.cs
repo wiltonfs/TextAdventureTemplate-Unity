@@ -13,7 +13,7 @@ public class SceneLoader : MonoBehaviour
     {
         if (autoLoad)
         {
-            timer = (Time.time + 5);
+            timer = (Time.time + 3);
         }       
     
     }
